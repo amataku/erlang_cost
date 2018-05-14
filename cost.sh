@@ -1,0 +1,1 @@
+erlc cost.erl && erl
