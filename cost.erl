@@ -11,7 +11,7 @@ main(A,S) ->
 
 %% 分母の計算
 sigma(A,0) ->
-  0;
+  1;
 
 sigma(A,S) ->
   T=power(A,S),
